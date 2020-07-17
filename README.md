@@ -8,6 +8,6 @@
 - [MEArec](https://github.com/alejoe91/MEArec) and its dependencies
 
 # How to run
-'''
+```
 python genMearecData.py
-'''
+```
